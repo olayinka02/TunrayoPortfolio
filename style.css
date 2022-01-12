@@ -165,13 +165,13 @@ line-height: 162.5%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: auto;
     padding-left:1rem;
     padding-right:1rem;
     width:100%;
 }
 .RightAbout{
-    margin-top: 15rem;
+    margin-top: 2rem;
 }
 .AboutmeText{
 font-family: Poppins;
@@ -366,7 +366,7 @@ color: #5C6CF9;
             padding-right:1rem;
         }
         .RightAbout{
-            margin-top: 15rem;
+            margin-top: 3rem;
         }
         .AboutmeText{
         font-family: Poppins;
@@ -466,7 +466,7 @@ color: #5C6CF9;
                 padding-right:1rem;
             }
             .RightAbout{
-                margin-top: 15rem;
+                margin-top: 10rem;
             }
             .AboutmeText{
             font-family: Poppins;
@@ -493,7 +493,10 @@ color: #5C6CF9;
                 width:100%;
                 
             }
-            
+            .Migrant{
+                margin-top: 10rem;
+                margin-bottom: 2rem;
+            } 
         
     }
   
@@ -598,7 +601,10 @@ color: #5C6CF9;
                 line-height: 162.5%;
                 color: #ffffff;
                 }
-            
+                .Migrant{
+                    margin-top: 9rem;
+                    margin-bottom: 2rem;
+                }
   
     }
   
@@ -701,7 +707,7 @@ color: #5C6CF9;
                 width:100%;
             }
             .Migrant{
-                margin-top: 13rem;
+                margin-top: 11rem;
             }
             
         
