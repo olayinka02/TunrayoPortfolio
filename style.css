@@ -298,7 +298,25 @@ color: #5C6CF9;
       background-color: #ECECEC;
       border-radius: 2rem;
   }
-  
+  .Fivebody{
+   
+    height: auto;
+    padding-left:1rem;
+    padding-right:1rem;
+    padding-top: 3rem;
+    padding-bottom:4rem;
+    width:100%;
+}
+.bodyboxImage{
+    width:100%;
+    padding: 0rem;
+}
+.productdescription{
+    color: #ECECEC;
+    font-size:0.8rem;
+    font-family:poppins;
+    width:100%;
+}
 
 
 
@@ -392,6 +410,15 @@ color: #5C6CF9;
             padding-right:1rem;
             width:100%;
             
+        }
+        .Fivebody{
+   
+            height: auto;
+            padding-left:1rem;
+            padding-right:1rem;
+            padding-top: 3rem;
+            padding-bottom:4rem;
+            width:100%;
         }
         
     
@@ -497,6 +524,15 @@ color: #5C6CF9;
                 margin-top: 10rem;
                 margin-bottom: 2rem;
             } 
+            .Fivebody{
+   
+                height: auto;
+                padding-left:1rem;
+                padding-right:1rem;
+                padding-top: 3rem;
+                padding-bottom:4rem;
+                width:100%;
+            }
         
     }
   
@@ -605,6 +641,15 @@ color: #5C6CF9;
                     margin-top: 9rem;
                     margin-bottom: 2rem;
                 }
+                .Fivebody{
+   
+                    height: auto;
+                    padding-left:1rem;
+                    padding-right:1rem;
+                    padding-top: 3rem;
+                    padding-bottom:4rem;
+                    width:100%;
+                }
   
     }
   
@@ -708,6 +753,15 @@ color: #5C6CF9;
             }
             .Migrant{
                 margin-top: 11rem;
+            }
+            .Fivebody{
+   
+                height: auto;
+                padding-left:10rem;
+                padding-right:10rem;
+                padding-top: 3rem;
+                padding-bottom:4rem;
+                width:100%;
             }
             
         
