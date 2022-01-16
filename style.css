@@ -146,7 +146,7 @@ font-size: 0.9rem;
 line-height: 162.5%;
 }
 .imageLanding{
-    margin-top: 14rem;
+    margin-top: 17rem;
 }
 
 
@@ -317,7 +317,37 @@ color: #5C6CF9;
     font-family:poppins;
     width:100%;
 }
-
+.RegisteredbtnLogin{
+    border: 0.2px Solid  #ffffff;
+    color: rgb(228, 228, 228);
+    width: 80%;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    background:#5C6CF9;
+    padding-top:0.2rem;
+    padding-bottom: 0.2rem;
+    margin-left:0rem;
+    padding-left:2.2rem;
+    padding-right:2.2rem;
+    border-radius:0.2rem;
+    animation-timing-function: ease-in;
+    transition-duration: 0.6s;
+    transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  }
+   .RegisteredbtnLogin:hover{
+    border: 0.5px Solid  #ffffff;
+    color: rgb(228, 228, 228);
+   
+    background: #5565f5;
+    padding-top:0.2rem;
+    padding-bottom: 0.2rem;
+    
+    padding-left:2.2rem;
+    padding-right:2.2rem;
+    border-radius:0.2rem;
+    transition-duration: 0.6s;
+    transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  }
 
 
 
@@ -533,6 +563,38 @@ color: #5C6CF9;
                 padding-bottom:4rem;
                 width:100%;
             }
+            .RegisteredbtnLogin{
+                border: 0.2px Solid  #ffffff;
+                color: rgb(228, 228, 228);
+                width: 40%;
+                margin-top: 1rem;
+                background:#5C6CF9;
+                padding-top:0.2rem;
+                padding-bottom: 0.2rem;
+                margin-left:0rem;
+                padding-left:2.2rem;
+                padding-right:2.2rem;
+                border-radius:0.2rem;
+                animation-timing-function: ease-in;
+                transition-duration: 0.6s;
+                transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+              }
+               .RegisteredbtnLogin:hover{
+                border: 0.5px Solid  #ffffff;
+                color: rgb(228, 228, 228);
+                width: 60%;
+               
+                background: #5565f5;
+                padding-top:0.2rem;
+                padding-bottom: 0.2rem;
+                
+                padding-left:2.2rem;
+                padding-right:2.2rem;
+                border-radius:0.2rem;
+                transition-duration: 0.6s;
+                transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+              }
+            
         
     }
   
